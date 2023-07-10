@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .landing {
+    background-image: url("https://img.freepik.com/free-vector/international-day-democracy_23-2148608691.jpg?w=740&t=st=1687235339~exp=1687235939~hmac=b8939fcd4918cded7eb42e28f0f948496645392bc727a19793f2d4f1dfbcf14d"); /* Replace with your actual image URL */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .heading {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    color:black;
+  }
+  
+  .btn-started {
+    padding: 1rem 2.5rem;
+    font-size: 1.5rem;
+    background-color: #007bff;
+    color:black;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .btn-started:hover {
+    background-color: #0056b3;
+  }
